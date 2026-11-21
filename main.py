@@ -1,4 +1,7 @@
 """Analyze real UCI Online Retail line items; report sales and returns separately."""
+from resources import ensure_assets
+ensure_assets()
+
 from pathlib import Path
 import json
 import sqlite3
