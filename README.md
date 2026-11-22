@@ -1,5 +1,9 @@
 # Retail Intelligence: real transaction analysis
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python 3.10 | 3.11](https://img.shields.io/badge/python-3.10%20%7C%203.11-blue)
+![Streamlit](https://img.shields.io/badge/dashboard-Streamlit-FF4B4B)
+
 Analyze UK online-retail sales, credit notes, products, countries and customer behavior, with an interactive local dashboard.
 
 شرح مختصر بالمصري في [EXPLAIN_AR.md](EXPLAIN_AR.md).
@@ -88,9 +92,6 @@ Data are historical UK transactions in GBP, not current Egyptian market data.
 The downloadable five-project review bundle contains the integration test suite. This standalone repository can be verified with `python main.py` and its saved report. To rerun only this project: `python main.py`.
 
 Before presenting this as your own work, understand each cleaning choice, explain every metric, and add a change you can defend. This is a ready-to-study portfolio starter, not a claim of client work or original data collection.
-
-## Dashboard preview
-
 
 ## Visual design
 
